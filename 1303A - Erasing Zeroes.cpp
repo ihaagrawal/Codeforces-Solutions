@@ -1,5 +1,5 @@
 // 1303A - Erasing Zeroes 
-// https://codeforces.com/problemset/status?my=on
+// https://codeforces.com/problemset/problem/1303/A
 
 #include <iostream>
 #include <vector>
